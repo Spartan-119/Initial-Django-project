@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# this is the file that is run by Django as the main file
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
